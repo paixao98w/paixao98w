@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👋 Olá, eu sou o Paixão!</h1>
+  <h1>👋 Olá, eu sou o Vinicius Paixão!</h1>
   <p><strong>Backend Engineer & Telecom Systems Specialist</strong></p>
   
   [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-paix%C3%A3o-5a3560150/)
@@ -52,16 +52,6 @@ Engenheiro de Software com foco em **Backend**, **Sistemas de Telecomunicações
 </p>
 
 ---
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Paixao98&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paixao98&layout=compact&theme=dark&hide=html,css"/>
-</div>
-
----
-
 <div align="center">
   <p>💡 <i>"Automating the present to scale the future."</i></p>
 </div>
